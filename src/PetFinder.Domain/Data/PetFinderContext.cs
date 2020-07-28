@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PetFinder.Core.Entities;
 
-namespace PetFinder.Infrastructure.Data
+namespace PetFinder.Domain.Data
 {
     public class PetFinderContext : DbContext
     {

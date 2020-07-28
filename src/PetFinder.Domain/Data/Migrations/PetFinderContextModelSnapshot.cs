@@ -4,7 +4,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 
-namespace PetFinder.Infrastructure.Data.Migrations
+namespace PetFinder.Domain.Data.Migrations
 {
     [DbContext(typeof(PetFinderContext))]
     partial class PetFinderContextModelSnapshot : ModelSnapshot

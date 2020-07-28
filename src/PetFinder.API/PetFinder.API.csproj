@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PetFinder.Infrastructure\PetFinder.Infrastructure.csproj" />
+    <ProjectReference Include="..\PetFinder.Domain\PetFinder.Domain.csproj" />
   </ItemGroup>
 
 

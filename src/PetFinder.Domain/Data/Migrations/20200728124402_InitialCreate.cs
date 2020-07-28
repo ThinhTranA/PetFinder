@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace PetFinder.Infrastructure.Data.Migrations
+namespace PetFinder.Domain.Data.Migrations
 {
     public partial class InitialCreate : Migration
     {

@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetFinder.API", "src\PetFin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetFinder.Core", "src\PetFinder.Core\PetFinder.Core.csproj", "{FE830240-01FF-453B-BD42-0AC1DFC15882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetFinder.Infrastructure", "src\PetFinder.Infrastructure\PetFinder.Infrastructure.csproj", "{DA8C9FCF-C7A6-494E-8F82-0096676D5BE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetFinder.Domain", "src\PetFinder.Domain\PetFinder.Domain.csproj", "{DA8C9FCF-C7A6-494E-8F82-0096676D5BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

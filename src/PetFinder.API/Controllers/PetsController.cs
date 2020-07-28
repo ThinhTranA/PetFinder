@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PetFinder.Core.Entities;
-using PetFinder.Infrastructure.Data;
+using PetFinder.Domain.Data;
 
 namespace PetFinder.API.Controllers
 {
